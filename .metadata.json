@@ -1,0 +1,22 @@
+[
+  {
+    "package": "BED",
+    "oncran": true
+  },
+  {
+    "package": "ClickHouseHTTP",
+    "oncran": true
+  },
+  {
+    "package": "neo2R",
+    "oncran": true
+  },
+  {
+    "package": "ReDaMoR",
+    "oncran": true
+  },
+  {
+    "package": "TKCat",
+    "oncran": true
+  }
+]
