@@ -1,10 +1,10 @@
 [
   {
-    "package": "BED",
+    "package": "ReDaMoR",
     "oncran": true
   },
   {
-    "package": "ClickHouseHTTP",
+    "package": "BED",
     "oncran": true
   },
   {
@@ -12,7 +12,7 @@
     "oncran": true
   },
   {
-    "package": "ReDaMoR",
+    "package": "ClickHouseHTTP",
     "oncran": true
   },
   {
