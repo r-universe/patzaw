@@ -3,14 +3,14 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "ReDaMoR"]
-	path = ReDaMoR
-	url = https://github.com/patzaw/redamor
-	shallow = true
-	registered = true
 [submodule "BED"]
 	path = BED
 	url = https://github.com/patzaw/bed
+	shallow = true
+	registered = true
+[submodule "ClickHouseHTTP"]
+	path = ClickHouseHTTP
+	url = https://github.com/patzaw/clickhousehttp
 	shallow = true
 	registered = true
 [submodule "neo2R"]
@@ -18,9 +18,9 @@
 	url = https://github.com/patzaw/neo2r
 	shallow = true
 	registered = true
-[submodule "ClickHouseHTTP"]
-	path = ClickHouseHTTP
-	url = https://github.com/patzaw/clickhousehttp
+[submodule "ReDaMoR"]
+	path = ReDaMoR
+	url = https://github.com/patzaw/redamor
 	shallow = true
 	registered = true
 [submodule "TKCat"]
