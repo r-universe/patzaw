@@ -8,12 +8,12 @@
 [submodule "ClickHouseHTTP"]
 	path = ClickHouseHTTP
 	url = https://github.com/patzaw/clickhousehttp
-[submodule "neo2R"]
-	path = neo2R
-	url = https://github.com/patzaw/neo2r
 [submodule "ReDaMoR"]
 	path = ReDaMoR
 	url = https://github.com/patzaw/redamor
 [submodule "TKCat"]
 	path = TKCat
 	url = https://github.com/patzaw/tkcat
+[submodule "neo2R"]
+	path = neo2R
+	url = https://github.com/patzaw/neo2r
