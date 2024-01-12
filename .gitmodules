@@ -14,6 +14,9 @@
 [submodule "TKCat"]
 	path = TKCat
 	url = https://github.com/patzaw/tkcat
+[submodule "bscui"]
+	path = bscui
+	url = https://github.com/patzaw/bscui
 [submodule "neo2R"]
 	path = neo2R
 	url = https://github.com/patzaw/neo2r
